@@ -1,0 +1,32 @@
+.wavedown {
+    width: 100%;
+    background-color: white;
+    background-image: url('../images/svg/wave.svg');
+    height: 20vh;
+}
+.waveup {
+    background-image: url('../images/svg/wave2.svg');
+    background-color:white;
+  }
+
+.bg1{
+    background-image: url('../images/svg/blob-shape1.svg');
+    background-repeat: no-repeat;
+  background-position: right;
+  background-size: 70% 70%;
+}
+
+.bg2{
+    /* background-color: blueviolet; */
+    background-image: url('../images/svg/blob-shape2.svg');
+    background-repeat: no-repeat;
+  background-position: right;
+  /* background-size: 90% 90%; */
+}
+
+.bg3{
+    background-image: url('../images/svg/blob-shape1.svg');
+    background-repeat: no-repeat;
+  background-position: right;
+  background-size: 80% 80%;
+}
